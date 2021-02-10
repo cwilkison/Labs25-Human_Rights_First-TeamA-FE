@@ -1,6 +1,6 @@
 # Human Rights First - Police Incident Report
 
-You can find the deployed project at [Police Use of Force Tracker](https://a.humanrightsfirst.dev/).
+You can find the deployed project at [Police Use of Force Tracker](https://main.d2t3n95dd6vcoh.amplifyapp.com/).
 
 ## Contributors
 
